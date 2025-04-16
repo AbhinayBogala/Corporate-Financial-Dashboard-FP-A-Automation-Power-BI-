@@ -124,3 +124,20 @@ Rename fields for clarity
 Add page navigation or bookmarks if required
 
 
+📉 Insights & Visualizations
+📄 Profit and Loss Page
+View changes in profitability across time
+
+Highlight increase in Net Profit and Gross Margin from 2018 to 2020
+
+🌍 Cross-Country Analysis
+Identify top-performing countries (e.g., USA, New Zealand)
+
+Compare regions based on Gross Profit and Net Profit
+
+💰 Cash Flow Statement
+Cash from operating activities
+
+Cash at beginning vs. end of the period
+
+Net movement in cash
