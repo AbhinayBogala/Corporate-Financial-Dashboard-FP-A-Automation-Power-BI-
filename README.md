@@ -85,6 +85,7 @@ Star Schema includes:
   - `tbl_GL[Date]` → `tbl_Calendar[Date]`
   - `tbl_GL[Account_key]` → `tbl_ChartofAccounts[Account_key]`
   - `tbl_GL[Territory_key]` → `tbl_Territory[Territory_key]`
+![Screenshot 2025-04-16 231407](https://github.com/user-attachments/assets/53d15899-16bc-43ed-9f7f-a7e63107941f)
 
 ### ✅ Step 3: Create DAX Measures
 Examples:
