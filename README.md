@@ -89,7 +89,7 @@ Star Schema includes:
 
 ### ✅ Step 3: Create DAX Measures
 Examples:
-```DAX
+DAX
 Total Sales = 
 CALCULATE(SUM(tbl_GL[Amount]), tbl_ChartofAccounts[Account] = "Sales")
 
@@ -100,7 +100,7 @@ EBITDA =
 [Gross Profit] - [Operating Expenses]
 
 Net Profit = 
-[EBITDA] + [Other Income] - [Taxes]
+[EBITDA] + [Other Income] - [Taxes] 
 
 ### ✅ Step 4: Build Visuals
 Use Matrix for P&L and Cash Flow statements
