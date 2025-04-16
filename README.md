@@ -11,10 +11,9 @@ This project aims to automate financial reporting and develop a comprehensive **
 - [🛠️ Tools & Technologies Used](#tools--technologies-used)
 - [🧱 Data Model Structure](#data-model-structure)
 - [📈 Step-by-Step Development Process](#step-by-step-development-process)
-- [📌 Key DAX Measures](#key-dax-measures)
 - [📉 Insights & Visualizations](#insights--visualizations)
 - [🚀 Future Enhancements](#future-enhancements)
-- [📚 References](#references)
+
 
 ---
 
@@ -127,6 +126,9 @@ Add page navigation or bookmarks if required
 📉 Insights & Visualizations
 📄 Profit and Loss Page
 View changes in profitability across time
+![Screenshot 2025-04-16 230738](https://github.com/user-attachments/assets/da9a5439-3f31-4934-9092-2e49b42a8468)
+![Screenshot 2025-04-16 231202](https://github.com/user-attachments/assets/357943c0-3421-4b87-8e10-c2f7538e764b)
+![Screenshot 2025-04-16 231220](https://github.com/user-attachments/assets/cfcad4d2-a054-4633-9882-58e1fd241beb)
 
 Highlight increase in Net Profit and Gross Margin from 2018 to 2020
 
